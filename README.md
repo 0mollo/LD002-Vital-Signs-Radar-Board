@@ -8,6 +8,7 @@ LD6002 Vital Signs Radar PCB
 
 
 📘 Overview
+
 The LD6002 Vital Signs Radar PCB is an open-source hardware design that uses the Hi-Link LD6002 60 GHz radar sensor for non-contact detection of human presence, motion, respiration, and heart rate.  
 The board is designed in KiCad and integrates seamlessly with the ESP32-C3 Mini microcontroller for data acquisition and wireless communication.
 
