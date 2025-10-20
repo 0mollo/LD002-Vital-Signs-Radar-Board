@@ -36,16 +36,6 @@ The system can be integrated into smart IoT devices such as:
 A detailed list of all components is included in the **Bill of Materials** file:  
 📄 [Bom File.xlsx](Bom%20File.xlsx)
 
-
-## 🖼️ PCB Preview
-
-Below are rendered views of the **LD6002 Vital Signs Radar Sensor PCB**:
-
-| Top View | Bottom View |
-|-----------|--------------|
-| ![Top View](images/LD6002_Radar_Sensor_Top.png) | ![Bottom View](images/LD6002_Radar_Sensor_Bottom.png) 
-
-
 ## 🧠 Usage and Integration Notes
 1. Power the module with **3.3 V DC** regulated supply.  
 2. Connect serial data pins (TX/RX) to the **ESP32-C3 Mini UART** interface.  
