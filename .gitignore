@@ -1,19 +1,19 @@
- KiCad project files to ignore
-.bak
-.kicad_pcb-bak
-.kicad_sch-bak
-.kicad_prl
-.zip
-.tmp
-.autosave
+# KiCad project files to ignore
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.zip
+*.tmp
+*.autosave
 
- Backup and cache directories
+ # Backup and cache directories
 /backup/
 /build/
 /__pycache__/
 /temp/
 /output/
 
- Operating system files
+ # Operating system files
 .DS_Store
 Thumbs.db
