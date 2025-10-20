@@ -3,7 +3,7 @@
 [![Open Source Hardware](https://img.shields.io/badge/Open--Source-Hardware-green.svg)](https://www.oshwa.org/)
 [![KiCad](https://img.shields.io/badge/Designed%20With-KiCad-blue.svg)](https://www.kicad.org/)
 [![License: CERN-OHL-P v2](https://img.shields.io/badge/License-CERN--OHL--P--v2-yellow.svg)](LICENSE)
-[![Made by Carenuty](https://img.shields.io/badge/Made%20by-Carenuty-blueviolet.svg)](#)
+[![Made by Carenuty](https://img.shields.io/badge/Made%20by-Carenuity-blueviolet.svg)](#)
 
 
 ## 📘 Overview
