@@ -42,7 +42,7 @@ Pinout Summary
 
 Bill of Materials (BOM)
 The complete Bill of Materials is provided in the file:  
-[`Bom File.xlsx`](../Bom%20File.xlsx)
+[`Bom File.xlsx`](Bom%20File.xlsx)
 
 
 📂 Repository Structure
